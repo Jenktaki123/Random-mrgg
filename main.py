@@ -19,12 +19,12 @@ print(G+"-----------------------------------------------")
 
 help= """\nThis tool is to get information from any target of its phone number or ip address besides of two DDoS attacks, by website domain name or ip address. 
 
-By Hidden Anonymous
-Youtube:  https://youtube.com/channel/UCcdAplf18AQ02f1mnOinP_g"""
+By Mr g
+Facebook:  Garcia09"""
 
 try:
  choice=input(G+'''
-1) Phoninfoga
+1) Phoninfo
 2) IP Tracker
 3) Ddosite
 4) Ddosip
